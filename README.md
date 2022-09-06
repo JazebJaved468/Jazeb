@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jazeb javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jazeb javed" height="30" width="40" /></a>
-<a href="https://fb.com/jazeb javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jazeb javed" height="30" width="40" /></a>
-<a href="https://instagram.com/ja_ze_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ja_ze_b" height="30" width="40" /></a>
-<a href="https://www.behance.net/jazeb javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jazeb javed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammad jazeb javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad jazeb javed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jazeb-javed-9472ab225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jazeb javed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jazeb.javed.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jazeb javed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ja_ze_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ja_ze_b" height="30" width="40" /></a>
+<a href="https://www.behance.net/empirejazzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jazeb javed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jazebjaved52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad jazeb javed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
