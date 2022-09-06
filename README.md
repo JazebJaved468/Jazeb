@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jazebjaved52@gmail.com**
 
-- 📄 Know about my experiences -- I am doing coding in python and C++ from 2021
+- 📄 Know about my experiences -- I am doing coding in python and C++ since July, 2021.
 
 - ⚡ Fun fact **I am the person you are looking for :)**
 
