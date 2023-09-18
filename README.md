@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JazebJaved468](https://github.com/JazebJaved468)
 
-- 💬 Ask me about **Python and C++**
+- 💬 Ask me about **Website Development, Flutter development, Python and C++**
 
 - 📫 How to reach me **jazebjaved52@gmail.com**
 
